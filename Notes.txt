@@ -1,5 +1,8 @@
-- Main Chart
-- Line
-- Bar
-- Column
-- Double Columns
+Bar chart.
+Column chart.
+Grouped bar/column chart.
+Lollipop chart.
+Bullet chart.
+Dot plot.
+Dumbbell.
+Pictogram.
